@@ -1,0 +1,47 @@
+body {
+    background-color: ;
+}
+
+
+.wrapper {
+    background-color: #e4e2de;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.ul {
+display: inline;
+}
+
+.wrapper div {
+    width: 50%;
+}
+
+ .navbar {
+    display: flex;
+    padding: 10px;
+    float: center;
+}
+
+span {
+    background-color: #F6B400;
+}
+
+ .block1 {
+    display: flexbox;
+    width: 33.3%,3;box-sizing: border-box;
+    height: 300px;
+    background-color: red;
+}
+
+.block2 {
+    display: inline-flexbox;
+    background-color: seagreen;
+    height: 400px;
+    justify-items: stretch;
+}
+
+li {
+    float: right;
+}
